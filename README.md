@@ -4,8 +4,9 @@
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=450>
 
-<sub><b>Figure 1.2: Artwork by [Allison Horst](https://twitter.com/allison_horst)</b></sub> 
+<sub><b>Figure 1: Artwork by [Allison Horst](https://twitter.com/allison_horst)</b></sub> 
 
+***
 
 ### Overview (Introduction)
 
@@ -14,6 +15,18 @@ This repository contains my analysis of the famous Palmer Penguins dataset.
 The data set is available [on GitHub](https://allisonhorst.github.io/palmerpenguins/) and contains size measurements for three species of penguins, that were observed across three islands in the Palmer Archipelago, Antartica.
 
 The data was collected by [Dr. Kristen Gorman](https://gormankb.github.io/) between 2007-2009 with the Palmer Station Long Term Ecological Research Program [LTER](https://pallter.marine.rutgers.edu/).
+
+***
+
+## Approach to Analysis
+
+The analysis of the Palmer Penguin dataset was broken down into the following parts:
+
+- <b>Import Libraries</b>: All important libraries (Pandas, NumPy, MatPlotLib) were loaded to to facilitate thorough investigation of the dataset.
+- <b>Load the Data</b>: The 'Palmer Penguins' data was then loaded into my notebook, and validate
+- <b>Inspect the Data</b>: The data was reviewed to check for data types and structure, missing cells, unique values, etc. 
+- <b>Data Variables</b>: A light review of the variable types to assess what type of analysis could be performed.
+- <b>
 
 ***
 
