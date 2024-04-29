@@ -2,10 +2,12 @@
 
 ###### <b>Author: Mark Gallagher</b>
 
-![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=450>
+
+<sub><b>Figure 1.2: Artwork by [Allison Horst](https://twitter.com/allison_horst)</b></sub> 
 
 
-### About this Project (Introduction)
+### Overview (Introduction)
 
 This repository contains my analysis of the famous Palmer Penguins dataset.
 
@@ -21,15 +23,11 @@ If you would like to reproduce (and improve) this piece of analysis:
 
 - [Clone this repository](https://github.com/galto4/mywork.git) to your local machine.
 - Install the necessary technologies, including (but not limited to):
-    - Visual Studio Code
     - Anaconda - Navigator
+    - Git
+    - GitHub
+    - Visual Studio Code
 - Run the Jupyter notebook 'penguins.ipynb' to execute the analysis steps.
-
-***
-
-### Getting started
-
-Lorem ipsum
 
 ***
 
@@ -47,6 +45,9 @@ When I'm not studying, I am working full-time @ [ADP](https://www.adp.com/) as t
 - [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#exploring-scatterplots)
 - [matplotlib](https://matplotlib.org/stable/api/matplotlib_configuration_api.html)
 - [penguin dataset : The new Iris](https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris#Analysing-the-data-visually)
-- []
+- [Real Python Tutorials](https://realpython.com/search?kind=article&kind=course&order=newest)
+- [W3Schools (Python Tutorial)](https://www.w3schools.com/python/default.asp)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [NumPy documentation](https://numpy.org/doc/stable/index.html)
 
 ***
