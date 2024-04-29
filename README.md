@@ -1,6 +1,6 @@
-# My Work from Principles of Data Analytics
+# Principles of Data Analytics - MyWork
 
-**by Mark Gallagher**
+###### Author: Mark Gallagher
 
 I study at [ATU](https://www.atu.ie/).
 
