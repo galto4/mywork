@@ -2,6 +2,10 @@
 
 ###### <b>Author: Mark Gallagher</b>
 
+<a target="_blank" href="https://colab.research.google.com/github/galto4/mywork/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=450>
 
 <sub><b>Figure 1: Artwork by [Allison Horst](https://twitter.com/allison_horst)</b></sub> 
