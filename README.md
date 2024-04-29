@@ -26,7 +26,8 @@ The analysis of the Palmer Penguin dataset was broken down into the following pa
 - <b>Load the Data</b>: The 'Palmer Penguins' data was then loaded into my notebook, and validate
 - <b>Inspect the Data</b>: The data was reviewed to check for data types and structure, missing cells, unique values, etc. 
 - <b>Data Variables</b>: A light review of the variable types to assess what type of analysis could be performed.
-- <b>
+- <b>Data Visualisation</b>: Using Histogram and Bar Charts to analyse and illustrate the dataset.
+-<b>Correlation Analysis</b>: Analysis of how correlated data variables are across the dataset.
 
 ***
 
@@ -55,12 +56,12 @@ When I'm not studying, I am working full-time @ [ADP](https://www.adp.com/) as t
 ### My References
 
 - [Palmer Penguins Dataset](https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv)
-- [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#exploring-scatterplots)
 - [matplotlib](https://matplotlib.org/stable/api/matplotlib_configuration_api.html)
 - [penguin dataset : The new Iris](https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris#Analysing-the-data-visually)
 - [Real Python Tutorials](https://realpython.com/search?kind=article&kind=course&order=newest)
 - [W3Schools (Python Tutorial)](https://www.w3schools.com/python/default.asp)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy documentation](https://numpy.org/doc/stable/index.html)
+- [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#exploring-scatterplots)
 
 ***
