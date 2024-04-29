@@ -62,6 +62,13 @@ When I'm not studying, I am working full-time @ [ADP](https://www.adp.com/) as t
 - [W3Schools (Python Tutorial)](https://www.w3schools.com/python/default.asp)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NumPy documentation](https://numpy.org/doc/stable/index.html)
-- [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#exploring-scatterplots)
+- Palmer Penguins Published Analysis
+    - [Introduction to palmerpenguins](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#exploring-scatterplots)
+    - [penguin dataset : The new Iris](https://www.kaggle.com/code/parulpandey/penguin-dataset-the-new-iris#Analysing-the-data-visually)
+    - [Example graphs using the penguins data](https://allisonhorst.github.io/palmerpenguins/articles/examples.html#flipper-length-vs--bill-length)
+    - [Plotly & Pandas For The Palmer Penguins](https://towardsdatascience.com/plotly-pandas-for-the-palmer-penguins-f5cdab3c16c8)
+    - [Penguin Dataset: Data Visualization with Seaborn](https://www.kaggle.com/code/tirendazacademy/penguin-dataset-data-visualization-with-seaborn#Conclusion)
+    - [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
+    - [Data Exploration and Visualisation Using Palmer Penguins Dataset](https://www.analyticsvidhya.com/blog/2022/04/data-exploration-and-visualisation-using-palmer-penguins-dataset/)
 
 ***
